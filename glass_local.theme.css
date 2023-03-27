@@ -55,7 +55,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     background color used for opacity
     default : 0, 0, 0 */
-    --background-color: 255, 255, 255;
+    --background-color: 125, 125, 125;
 }
 
 /* BACKGROUND */
